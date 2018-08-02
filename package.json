@@ -1,10 +1,11 @@
 {
-  "name": "serverless",
+  "name": "ses-email",
   "version": "1.0.0",
   "description": "Serverless functions",
   "license": "UNLICENSED",
   "main": "index.js",
   "keywords": [
+    "ses-email",
     "serverless",
     "lambda",
     "cloud functions",
