@@ -1,0 +1,27 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "Serverless functions",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "keywords": [
+    "serverless",
+    "lambda",
+    "cloud functions",
+    "NodeMailer"
+  ],
+  "contributors": [
+    {
+      "name": "Khurram Ali",
+      "email": "info@riksof.com"
+    }
+  ],
+  "peerDependencies": {
+    "nodemailer": "4.0.1",
+    "nodemailer-smtp-transport": "2.7.4"
+  },
+  "peerDependencies": {
+    "nodemailer": "4.0.1",
+    "nodemailer-smtp-transport": "2.7.4"
+  }
+}
