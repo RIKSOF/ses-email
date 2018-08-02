@@ -20,9 +20,5 @@
   "peerDependencies": {
     "nodemailer": "4.0.1",
     "nodemailer-smtp-transport": "2.7.4"
-  },
-  "peerDependencies": {
-    "nodemailer": "4.0.1",
-    "nodemailer-smtp-transport": "2.7.4"
   }
 }
